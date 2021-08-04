@@ -1,0 +1,46 @@
+#icone{
+    width: 40px;
+    height: 40zpx;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#menu{
+    float: right;
+    padding-right: 20px;
+    padding-top: 15px;
+    top: 0px;
+    font-family: fantasy;   
+}
+#lego-img{
+    width: 600px;
+    height: 300px;
+}
+#cabecalho, footer{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(3, 200, 235); 
+    padding-left: 10px;
+    vertical-align: middle;
+    padding-top: 10px;
+
+}
+body{
+    margin: 0px;
+}
+#cabecalho span{
+    font-size: 25px;
+}
+header{
+    background-color: rgb(117, 115, 115);
+}
+main{
+    background-color: rgb(117, 115, 115);
+}
+aside{
+    height: 80vh;
+    font-size: 16px;
+    float: right;
+}
+#lateral{
+    color: greenyellow;
+}
